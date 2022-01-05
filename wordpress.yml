@@ -5,7 +5,7 @@
     edit_hostname: "no"
     hostname: "AnsibleWorker01"
     wp_version: 5.0.3
-    wp_mysql_db: 'database_name_here'
+    wp_mysql_db: 'database_name'
     wp_mysql_user: 'username_here'
     wp_mysql_password: 'password_here'
     wp_webserver: nginx
