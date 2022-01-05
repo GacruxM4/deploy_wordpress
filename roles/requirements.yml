@@ -1,4 +1,4 @@
-- src: https://github.com/sadofrazer/docker_role.git
-- src: sadofrazer.docker_role
-- src: sadofrazer.wordpress_role
-- src: https://github.com/sadofrazer/wordpress_role.git
+- src: https://github.com/GacruxM4/docker_role.git
+- src: gacruxm4.docker
+- src: gacruxm4.wordpress_role
+- src: https://github.com/GacruxM4/wordpress_role.git
