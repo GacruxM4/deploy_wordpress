@@ -5,6 +5,6 @@
     edit_hostname: "no"
     hostname: "AnsibleWorker01"
   roles:
-    - docker_role
+    - docker
     - wordpress_role
 
