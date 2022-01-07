@@ -1,5 +1,5 @@
 - name: deploy wordpress using a role
-  hosts: all
+  hosts: localhost
   become: true
   vars:
     wp_version: 5.0.3
