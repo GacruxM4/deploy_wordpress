@@ -1,4 +1,2 @@
 - src: https://github.com/GacruxM4/docker_role.git
-- src: gacruxm4.docker
-- src: gacruxm4.wordpress_role
 - src: https://github.com/GacruxM4/wordpress_role.git
